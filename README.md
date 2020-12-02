@@ -2,4 +2,5 @@
 
 https://adventofcode.com/
 
-## Day 1
+### Day 1
+Solved! 
